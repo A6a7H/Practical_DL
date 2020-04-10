@@ -74,3 +74,6 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+homework03/BBBC018_v1_images-fixed/*
+homework03/BBBC018_v1_outlines/*
+homework03/data.zip
